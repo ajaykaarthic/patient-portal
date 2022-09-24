@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "873087338023",
+    "project_id": "med-app-366e5",
+    "storage_bucket": "med-app-366e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873087338023:android:f523b82f8bfc3a4dcdf002",
+        "android_client_info": {
+          "package_name": "com.hackdfw22.med_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873087338023-54b2hncrj4elqua5a7s68jfk0kaidet7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDCpMvNw1CjIvI6XgfhmzjErLGzkMhC0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873087338023-54b2hncrj4elqua5a7s68jfk0kaidet7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873087338023-2psdqlb7pfasa4sv3uc7ftttvsllu9ev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hackdfw22.medapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
