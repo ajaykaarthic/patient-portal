@@ -3,3 +3,9 @@ One portal for patients and their family to keep track of the events encountered
 
 ## Installation
 ```flutter pub get```
+
+
+
+
+
+![AppVeyor](https://img.shields.io/badge/-flutter-brightgreen)
