@@ -1,2 +1,2 @@
-# med_app
-A Flutter project.
+# Patient Portal
+One portal for patients and their family to keep track of the events encountered by the patient during hospitalization.
